@@ -30,3 +30,5 @@ elbtrest.addEventListener("click", function () {
   elResult.textContent = 0;
   elResultt.textContent = 0;
 });
+
+//  end;
